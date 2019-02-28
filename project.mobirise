@@ -36,8 +36,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 54,
-    "versionPublish": "4.8.1",
+    "uniqCompNum": 55,
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""

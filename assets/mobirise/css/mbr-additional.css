@@ -1609,10 +1609,6 @@ body {
 .cid-r6w1UEidys .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-r6w1UEidys .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-r6w1UEidys .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-r6w1UEidys .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r6w1UEidys .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1706,10 +1702,6 @@ body {
   .cid-r6w1UEidys .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-r6w1UEidys .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-r6w1UEidys .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-r6w1UEidys .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-r6w1UEidys .navbar-collapse.collapsing .navbar-buttons,
   .cid-r6w1UEidys .navbar-collapse.show .navbar-buttons {
@@ -2263,8 +2255,8 @@ body {
   color: #767676;
 }
 .cid-rm7b3xBkkP {
-  padding-top: 135px;
-  padding-bottom: 90px;
+  padding-top: 90px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/152382107-1200x675.jpg");
 }
 .cid-rm7b3xBkkP P {
@@ -2501,10 +2493,6 @@ body {
 .cid-r6w1UEidys .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-r6w1UEidys .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-r6w1UEidys .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-r6w1UEidys .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r6w1UEidys .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2598,10 +2586,6 @@ body {
   .cid-r6w1UEidys .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-r6w1UEidys .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-r6w1UEidys .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-r6w1UEidys .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-r6w1UEidys .navbar-collapse.collapsing .navbar-buttons,
   .cid-r6w1UEidys .navbar-collapse.show .navbar-buttons {
@@ -2705,9 +2689,10 @@ body {
 }
 .cid-rm7aPvOj2u .card-title {
   color: #465052;
+  text-align: left;
 }
 .cid-rm7aPvOj2u .cost {
-  color: #465052;
+  color: #126aa7;
 }
 .cid-rm7aPvOj2u H2 {
   color: #126aa7;
@@ -2715,6 +2700,12 @@ body {
 }
 .cid-rm7aPvOj2u B {
   color: #465052;
+}
+.cid-rm7aPvOj2u .b-descr {
+  text-align: left;
+}
+.cid-rm7aPvOj2u .card-title DIV {
+  color: #126aa7;
 }
 .cid-rm7aVUqKeb {
   padding-top: 60px;
@@ -2828,7 +2819,7 @@ body {
   }
 }
 .cid-r6w6LV01NN {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
